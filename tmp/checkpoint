@@ -1,0 +1,3 @@
+model_checkpoint_path: "latest_minibathtestmodel.ckpt"
+all_model_checkpoint_paths: "inprog_minibathtestmodel.ckpt"
+all_model_checkpoint_paths: "latest_minibathtestmodel.ckpt"
